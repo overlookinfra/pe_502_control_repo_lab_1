@@ -1,6 +1,6 @@
 # A Puppet Control Repository
 
-# PE 501 Starting Point
+# PE 502 Starting Point
 
 This control repo supports Lab 1 in the [Puppet Enterprise 501](https://www.puppet.com/support/training) training course.
 
