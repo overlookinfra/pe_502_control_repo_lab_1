@@ -2,7 +2,7 @@
 
 # PE 502 Starting Point
 
-This control repo supports Lab 1 in the [Puppet Enterprise 501](https://www.puppet.com/support/training) training course.
+This control repo supports Lab 1 in the [Puppet Enterprise 502](https://www.puppet.com/support/training) training course.
 
 Control repositories used directly in labs can use this control repo to get started, and 
 then have their own modifications added to the code in order to progress the labs in a
